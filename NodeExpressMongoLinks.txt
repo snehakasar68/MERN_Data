@@ -1,0 +1,38 @@
+udemy cource-node js
+https://www.udemy.com/course/node-js-api-tutorial/learn/lecture/13683904#overview----jayshree mam
+
+https://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js
+https://nodejs.org/en/docs/guides/
+https://www.udemy.com/course/node-js-api-tutorial/
+https://nodejs.dev/learn/the-nodejs-event-loop
+https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/
+https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
+https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678
+https://jsonworld.com/nodejs-interview-questions
+https://docs.mongodb.com/manual/tutorial/getting-started/
+https://docs.mongodb.com/manual/reference/operator/query/and/
+https://www.w3resource.com/mongodb-exercises/
+http://nicholasjohnson.com/mongo/course/workbook/
+https://gist.github.com/theRemix/7305403e1ab6fc8674f0
+https://studio3t.com/knowledge-base/articles/mongodb-aggregation-framework/
+https://www.mongodb.com/blog/post/joins-and-other-aggregation-enhancements-coming-in-mongodb-3-2-part-1-of-3-introduction
+https://www.studytonight.com/mongodb/sharding-in-mongodb
+https://codeforgeek.com/express-nodejs-tutorial/
+https://www.edureka.co/blog/expressjs-tutorial/
+https://expressjs.com/en/starter/generator.html
+
+https://youtu.be/eYVGoXPq2RA
+https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/
+https://bezkoder.com/node-express-mongodb-crud-rest-api/
+https://bezkoder.com/react-node-express-mongodb-mern-stack/
+https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
+
+ https://medium.com/@vigowebs/frequently-asked-node-js-interview-questions-and-answers-b74fa1f20678
+
+https://dev.to/nurofsun/building-simple-rest-api-with-express-js-and-mysql-140p
+
+https://blog.logrocket.com/mern-stack-a-to-z-part-1/
+
+https://blog.logrocket.com/handling-images-with-cloudinary-in-react/
+https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/
+https://bezkoder.com/react-image-upload-preview/

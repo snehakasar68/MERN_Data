@@ -1,0 +1,55 @@
+
+https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
+https://github.com/sudheerj/reactjs-interview-questions#what-is-react-router
+https://hackr.io/blog/react-interview-questions
+https://reactjs.org/docs/fragments.html
+https://www.javatpoint.com/react-fragments
+https://frontarm.com/james-k-nelson/react-fragments-in-practice/
+https://blog.logrocket.com/react-fragments-an-overview/
+https://reactjs.org/docs/react-api.html
+https://www.tutorialspoint.com/pure-component-in-react-js#:~:text=in%20shallow%20comparison%20.-,Example,setInterval(()%20%3D%3E%20%7B%20this.
+https://reactjs.org/docs/refs-and-the-dom.html
+https://css-tricks.com/working-with-refs-in-react/
+
+
+
+
+
+Developer tools
+ https://www.youtube.com/watch?v=kwFwN1M0M98&list=PLRKyZvuMYSIPFWe4ruCd7r9BozthKyXHB&index=3
+
+
+-----------------------HOC,Render Props-------------------------------------------
+https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196
+1. https://css-tricks.com/an-overview-of-render-props-in-react/
+2. https://reactjs.org/docs/render-props.html
+3. https://blog.logrocket.com/react-reference-guide-render-props/
+4. https://scotch.io/tutorials/react-render-props-explained
+5. https://www.pragimtech.com/blog/reactjs/render-props-in-react/
+HOC:
+1. https://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/
+2. https://reactjs.org/docs/higher-order-components.html
+3. https://www.smashingmagazine.com/2020/06/higher-order-components-react/
+--------------------portal-----------------------
+1. https://codeburst.io/reacts-portals-in-3-minutes-9b2efb74e9a9
+
+2. https://css-tricks.com/using-react-portals-to-render-children-outside-the-dom-hierarchy/
+ https://codesandbox.io/s/00254q4n6p?file=/src/index.js:158-176
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+signle record fetch

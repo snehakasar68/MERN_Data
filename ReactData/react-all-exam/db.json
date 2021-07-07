@@ -1,0 +1,40 @@
+{
+  "usersDetails": [
+    {
+      "id": 1,
+      "name": "sneha",
+      "email": "sneha@gmail.com",
+      "mobile": "9545758485"
+    },
+    {
+      "name": "poonam",
+      "email": "poonam@gmail.com",
+      "mobile": "9582647891",
+      "id": 2
+    },
+    {
+      "name": "ganesh",
+      "email": "ganesh@gmail.com",
+      "mobile": "9854575895",
+      "id": 3
+    },
+    {
+      "name": "Faiz",
+      "email": "faiz@gmail.com",
+      "mobile": "9854575895",
+      "id": 4
+    },
+    {
+      "name": "Deepak",
+      "email": "deepak@gmail.com",
+      "mobile": "9587456526",
+      "id": 5
+    },
+    {
+      "name": "sk",
+      "email": "sk@gmail.com",
+      "mobile": "958745652",
+      "id": 6
+    }
+  ]
+}

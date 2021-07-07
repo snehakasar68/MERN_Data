@@ -1,0 +1,7 @@
+The "exports" keyword is used to ensure that the functionality defined in this file can actually be accessed by other files.
+We are then defining a function called 'AddNumber'. This function is defined to take 2 parameters, a and b. The function is added to the module "exports" to make the function as a public function that can be accessed by other application modules.
+We are finally making our function return the added value of the parameters.
+Now that we have created our custom module which has the functionality of adding 2 numbers. It's now time to create an application, which will call this module.
+
+In the next step, we will actually see how to create the application which will call our custom module.
+
